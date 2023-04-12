@@ -104,7 +104,7 @@ Children:
       Type: BaseDataVariableType
       DataType: Color
       ModellingRule: Optional
-      Value: "#f31313"
+      Value: "#2913f3"
     - Name: FontSize
       Type: BaseDataVariableType
       DataType: Size
